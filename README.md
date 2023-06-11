@@ -236,8 +236,9 @@ r.ProgFinish(r"""Mainprog""")
 r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""") 
 ```
 ## OUTPUT 
-![Output](rob1.png)
+![rob1 (2)](https://github.com/Ritika-2706/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/assets/93427238/a7618a8b-5f8d-43e3-b6e2-ee83bb9c0956)
+
  
 ## RESULT:
-The painting environment for a serial manipluator has been created and the surface for the same has been taught.
+
  

@@ -240,5 +240,5 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""
 
  
 ## RESULT:
-
+The painting environment for a serial manipluator has been created and the surface for the same has been taught.
  
